@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Poppins:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&family=Raleway+Dots&display=swap');
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -17,11 +18,46 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  /* color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb));
+    rgb(var(--background-start-rgb)); */
+}
+
+.item-selected {
+  border-bottom: 3px solid #1D6687;
+  
+}
+
+.header {
+  background-color: black;
+}
+
+.hero {
+  background-image: url(../../public/Hero.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.footer {
+  background-image: url(../../public/footer_bg.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.conversation-cta {
+  transform: translateY(50%);
+}
+
+.coretech img {
+  box-shadow: 0px 0 20px rgba(0,0,0,0.5);
+}
+
+.scroll-snap-type {  
+  scroll-snap-type: x mandatory;
 }

@@ -1,0 +1,289 @@
+{
+    "caseItems": [
+        {
+            "id": 1,
+            "featured": true,
+            "title": "Devops Revolution for SecureBank",
+            "slug": "devops-revolution-for-securebank",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/credit-card-lock.jpg",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/ederico_rocha.png"
+            }
+        },
+        {
+            "id": 2,
+            "title": "E-commerce for FashionFlow",
+            "slug": "e-commerce-for-fashionflow",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/female-desk.jpg",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/antonio_filipe.png"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Faster ways to reach your customers and their needs",
+            "slug": "faster-ways-to-reach-your-customers-and-their-needs",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/institutional.jpg",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/antonio_filipe.png"
+            }
+        },
+        {
+            "id": 4,
+            "title": "Gestalt psychology in UI/UX design and beyond",
+            "slug": "gestalt-psychology-in-ui-ux-design-and-beyond",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/mobile_version.png",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/antonio_filipe.png"
+            }
+        },
+        {
+            "id": 5,
+            "title": "Organize your digital assets with a new methodology",
+            "slug": "organize-your-digital-assets-with-a-new-methodology",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/mobile_laptop.png",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/antonio_filipe.png"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Faster ways to reach your customers and their needs",
+            "slug": "faster-ways-to-reach-your-customers-and-their-needs",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/institutional.jpg",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/antonio_filipe.png"
+            }
+        },
+        {
+            "id": 7,
+            "title": "Faster ways to reach your customers and their needs",
+            "slug": "faster-ways-to-reach-your-customers-and-their-needs",
+            "href": "#",
+            "description": "The goal is to streamline the software delivery processes, with quicker releases without compromising quality",
+            "overview": "SecureBank wanted to to streamline its software delivery processes, aiming for quicker releases without compromising quality.",
+            "challenge": [
+                "Overcome fragmented software delivery processes.",
+                "Integrate consistent quality checks.",
+                "Ensure minimal downtime during updates."
+            ],
+            "solution": "Implemented a comprehensive DevOps strategy, automating several stages of the delivery pipeline and introducing consistent, automated testing protocols.",
+            "outcome": "SecureBank reduced its software update downtime by 85% and accelerated its release cycles by 50%.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Case study",
+                "href": "#"
+            },
+            "mainimg": "/institutional.jpg",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "/antonio_filipe.png"
+            }
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "title": "Consistent Commitment",
+            "slug": "consistent-commitment",
+            "description": "Engaging with RW Interactive was a refreshing experience. Their focus on ensuring our needs were met was clear, reinforcing the notion that our success and theirs are intertwined",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO"
+            },
+            "projectimg": "/project_01_laptop.png",
+            "projecttitle": "Meu Super",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.google.com/"
+        },
+        {
+            "id": 2,
+            "title": "Thoughtful Innovation",
+            "slug": "thoughtful-innovation",
+            "description": "We felt heard. Their ability to integrate feedback and innovate based on our needs made a genuine difference. Felt more like a partnership than a service.",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO"
+            },
+            "projectimg": "/project_02_laptop.png",
+            "projecttitle": "IDC Corporate Website",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.bing.com/"
+        },
+        {
+            "id": 3,
+            "title": "IDC Corporate Website",
+            "slug": "idc-corporate-website",
+            "description": "Our objectives felt like a mutual mission. Making our collaboration both smooth and meaningful.",
+            "author": {
+                "name": "Ederico Rocha",
+                "role": "Co-Founder / CTO"
+            },
+            "projectimg": "/project_03_laptop.png",
+            "projecttitle": "IDC Corporate Website",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.yahoo.com/"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "projectimg": "/project_01_laptop.png",
+            "projecttitle": "Meu Super",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.bing.com/"
+        },
+        {
+            "id": 2,
+            "projectimg": "/project_02_laptop.png",
+            "projecttitle": "IDC Corporate Website",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.google.com/"
+        },
+        {
+            "id": 3,
+            "projectimg": "/project_03_laptop.png",
+            "projecttitle": "Yossi Responsive Website",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.yahoo.com/"
+        },
+        {
+            "id": 4,
+            "projectimg": "/project_01_laptop.png",
+            "projecttitle": "Meu Super",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.msn.com/"
+        },
+        {
+            "id": 5,
+            "projectimg": "/project_02_laptop.png",
+            "projecttitle": "IDC Corporate Website",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.cnn.com/"
+        },
+        {
+            "id": 6,
+            "projectimg": "/project_03_laptop.png",
+            "projecttitle": "Yossi Responsive Website",
+            "projectcategory": "Web & Mobile",
+            "href": "https://www.sapo.pt/"
+        }
+    ]
+}

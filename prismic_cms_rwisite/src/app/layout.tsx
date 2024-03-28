@@ -17,12 +17,6 @@ const nunitoSans = Nunito_Sans({
   variable: '--font-nunito-sans',
   display: 'swap',
 })
-
- 
-type Props = {
-  params: { id: string }
-  searchParams: { [key: string]: string | string[] | undefined }
-}
  
 export async function generateMetadata(): Promise<Metadata> {
   
@@ -39,8 +33,6 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
  
-// export default function Page({ params, searchParams }: Props) {}
-
 export default function RootLayout({
   children,
 }: Readonly<{

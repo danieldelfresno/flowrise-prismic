@@ -1,6 +1,6 @@
 import { Content } from "@prismicio/client";
-import { PrismicNextImage, PrismicNextLink } from "@prismicio/next";
-import { JSXFunctionSerializer, JSXMapSerializer, PrismicRichText, SliceComponentProps } from "@prismicio/react";
+import { PrismicNextImage } from "@prismicio/next";
+import { JSXMapSerializer, PrismicRichText, SliceComponentProps } from "@prismicio/react";
 import Bounded from "@/components/Bounded";
 import Button from "@/components/Button";
 import Heading from "@/components/Heading";
@@ -62,7 +62,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
               </Button>
             </div>
             <PrismicNextImage field={slice.primary.image} 
-              className="drop-shadow-xl max-w-4xl w-full"/>
+              className="drop-shadow-xl max-w-4xl w-full rounded-3xl"/>
         </div>
       </Bounded>
     )}

@@ -1,7 +1,7 @@
 import { createClient } from "@/prismicio";
 import { PrismicNextLink } from "@prismicio/next";
 import Link from "next/link";
-import Logo from "./Logo";
+import Logo from "./Icons/Logo";
 import Bounded from "@/components/Bounded";
 
 export default async function Footer() {
